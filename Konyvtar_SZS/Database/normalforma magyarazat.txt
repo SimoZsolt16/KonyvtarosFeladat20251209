@@ -1,0 +1,15 @@
+Ebben a dokumentációban elmagyarázom a lehető legalapabb módon azt, hogy a "konyvtar" nevű adatbázisom miért is felel meg az első 3 normálformának.
+Atya-gatya
+
+- Miért felel meg az 1. normálformának?
+    - Nincs felsorolás, ismétlődő mező (atomi adatai vannak)
+    - Minden rekord egyedi
+    - Van elsődleges kulcs minden táblában
+
+- Miért felel meg a 2. normálformának?
+    - Megfelel az 1. normálformának
+    - Vannak részleges függőségek
+
+- Miért felel meg a 3. normálformának?
+    - Megfelel a 2. normálformának
+    - Nincs tranzitív függőség (azaz nem kulcs attribútum nem függ más nem kulcs attribútumtól)
