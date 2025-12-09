@@ -4,11 +4,11 @@ Atya-gatya
 - Miért felel meg az 1. normálformának?
     - Nincs felsorolás, ismétlődő mező (atomi adatai vannak)
     - Minden rekord egyedi
-    - Van elsődleges kulcs minden táblában
 
 - Miért felel meg a 2. normálformának?
     - Megfelel az 1. normálformának
     - Vannak részleges függőségek
+    - Van elsődleges kulcs minden táblában
 
 - Miért felel meg a 3. normálformának?
     - Megfelel a 2. normálformának

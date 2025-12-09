@@ -1,4 +1,4 @@
-CREATE DATABASE konyvtar;
+CREATE DATABASE konyvtar_simo;
 USE konyvtar;
 
 
